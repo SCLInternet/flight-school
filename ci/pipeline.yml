@@ -2,7 +2,7 @@ resources:
 - name: flight-school
   type: git
   source:
-    uri: https://github.com/SCLInternet/flight-school
+    uri: git@github.com:SCLInternet/flight-school.git
     branch: master
 
 jobs:
